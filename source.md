@@ -1,62 +1,45 @@
 class: center, middle
 
-# 讲义题目
+# 自我介绍
 
 &nbsp;
 &nbsp;
 
-#### 作者姓名 (author@email.com)  
+#### 李湘豪 (929956090@qq.com)  
 
-主页: https://github.com/author
-
----
-
-## 本讲内容
-
-### <font color="orangered">1. 第一部分</font>
-
-#### &nbsp; &nbsp; 1.1 如何学习
-#### &nbsp; &nbsp; 1.2 好好学习
-#### &nbsp; &nbsp; 1.3 好好学习
-
-### 2. 第二部分
-
-### 3. 第三部分
+主页: https://github.com/xinghoLee
 
 ---
 
-## 第一部分
+## 
 
-```c
-int main()
-{
-  printf("Hello world\n");
-  return 0 ;
-}
-```
+### <font color="orangered"></font>
 
----
+#### &nbsp; &nbsp; 人生经历平平无奇
+#### &nbsp; &nbsp; 没得过大病，也没残疾，遗憾是近视。
+#### &nbsp; &nbsp; 小时候也没有什么惊人之举。
 
-## 插图
+###  我高中在长沙市长郡中学就读，一直是一个普通学生，当时也没奢望能上北大。
 
-** Ada Lovelace **
-
-<img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Ada_Lovelace_color.svg" width=300 style="margin: 0px 80px">
+### 
 
 ---
 
-## `\(\LaTeX{}\)` in remark
+## 所以说啊人是不可以预料的，一个人的命运啊，当然要靠自我奋斗······我绝对不知道，我一个长沙的普通学生怎么就把我选到北京来了呢？
 
 
-1. This is an inline integral: `\(\int_a^bf(x)dx\)`
-2. More `\(x={a \over b}\)` formulae.
 
-Display formula:
 
-$$e^{i\pi} + 1 = 0$$
+
+
+
+
+
+
+
 
 ---
 
-class: center, middle
 
-# 谢谢
+
+# Were it to benefit my country I would lay down my life,What then is risk to me?
